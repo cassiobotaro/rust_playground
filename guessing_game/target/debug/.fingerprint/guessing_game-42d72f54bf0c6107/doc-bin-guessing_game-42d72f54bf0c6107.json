@@ -1,1 +1,0 @@
-{"rustc":16448434725525097460,"features":"[]","target":554568938921675166,"profile":12472537617123984595,"deps":[["rand v0.4.1",4234070846521559605],["rand v0.4.1",11190098327133728759]],"local":[{"Precalculated":"1513636329.102473043s (/home/cassiobotaro/rust/rust_playground/guessing_game/src/main.rs)"}],"rustflags":[]}
